@@ -2,11 +2,10 @@
 layout: post
 title: "New digiKam Plugin to Process 
 Optical Character Recognition(OCR)"
+date:   2022-06-19 16:41:53 +0200
 categories: junk
 author:
 - TRAN Quoc Hung
-meta: "Springfield"
-date:   2022-06-19 16:41:53 +0200
 ---
 
 ## **Problem description** 
