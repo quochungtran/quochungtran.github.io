@@ -25,7 +25,7 @@ Thanks to the help of the OCR plugin in digikam. The users will be able to selec
 In this document, I will first represent in detail my planned implementation and finally, my provisional schedule for each step.
 
 
-## **PLan** 
+## **Plan** 
 
 
 The project consists of tree components:
