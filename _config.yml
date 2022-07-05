@@ -1,6 +1,5 @@
 title: My Journey at google summer of Code 2022 
 author:
-  name: quochungtran
   email: quochungtran1999@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
  This blog contains the description of my projects : 
@@ -16,8 +15,7 @@ minima:
 
   # generate social links in footer
   social_links:
-    twitter: jekyllrb
-    github:  jekyll
+    github:  https://github.com/quochungtran
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
