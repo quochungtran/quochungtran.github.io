@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New digiKam Plugin to Process  Optical Character Recogniti (OCR) "
+title: "This post demonstrates post content styles"
 categories: junk
 author:
 - TRAN Quoc Hung

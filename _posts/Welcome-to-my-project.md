@@ -1,7 +1,7 @@
 ---
 layout: post
-title: New digiKam Plugin to Process 
-Optical Character Recognition(OCR)
+title: "New digiKam Plugin to Process 
+Optical Character Recognition(OCR)"
 categories: junk
 author:
 - TRAN Quoc Hung
