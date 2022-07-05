@@ -1,11 +1,11 @@
-title: Your awesome title
+title: My Journey at google summer of Code 2022 
 author:
-  name: GitHub User
-  email: your-email@domain.com
+  name: quochungtran
+  email: quochungtran1999@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ This blog contains the description of my projects : 
+ from internship project, open source distribution and personal project. 
+ These projects express my competences, skills and interests
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
