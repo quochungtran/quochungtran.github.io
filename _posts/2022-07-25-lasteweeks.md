@@ -13,7 +13,7 @@ meta: "Springfield"
 
 In my final weeks of the Google Summer of Code 2022, I spend my time polishing code and writing and documenting all parts of my code for the final Submission for final integration into the branch master.
 
-To summarize, I would like to demo the functionalities of the Digikam OCR tool:
+To summarize, I would like to demo the functionalities of the Digikam OCR tool what I have done:
 
 
 1: The user can process OCR in multiple documented images by selecting them; if not, a pop-up will appear 
@@ -25,3 +25,7 @@ To summarize, I would like to demo the functionalities of the Digikam OCR tool:
 4: With the support of the spell-checking engine, users can adjust the text and store it in separate text files or XMP metadata by clicking on the "Save" button. 
 
 5: The text is stored in XMP can translate to another language in storing on another place.
+
+
+To improve : 
+
