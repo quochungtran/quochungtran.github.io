@@ -24,7 +24,7 @@ I also implemented a contextual menu with the action "Copy" to be able to copy a
 
 Finally, for the porting to Qt6, I have contributed new APIs in order to import GPX tracks files.
 
-[merge_requests_170](https://invent.kde.org/graphics/digikam/-/merge_requests/171)
+[merge_requests_171](https://invent.kde.org/graphics/digikam/-/merge_requests/171)
 
 
 
