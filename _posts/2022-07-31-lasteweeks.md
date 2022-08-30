@@ -4,7 +4,7 @@ tags: []
 layout: "post"
 title: "<Weeks 10,11,12> Cleaning code and demo application"
 categories: "junk"
-date: "2022-08-31 16:41:53 +0200"
+date: "2022-08-30 16:41:53 +0200"
 author:
   - "TRAN Quoc Hung"
 meta: "Springfield"
