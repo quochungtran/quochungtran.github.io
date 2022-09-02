@@ -41,7 +41,8 @@ To summarize, I would like to demo the functionalities of the Digikam OCR tool w
 
 You can view the demo of the plugin here : 
 
-https://drive.google.com/file/d/1wyiHLaJbHDna1QLUZ5wS6vrrKwiyPkts/view?usp=sharing 
+
+[demo](https://drive.google.com/file/d/1wyiHLaJbHDna1QLUZ5wS6vrrKwiyPkts/view?usp=sharing) 
 
 
 # Improvement 
