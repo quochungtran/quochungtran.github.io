@@ -2,7 +2,7 @@
 noteId: "e8ab7120fc6c11eca76fbdf1109b752b"
 tags: []
 layout: "post"
-title: "New digiKam Plugin to Process  Optical Character Recognition(OCR)"
+title: "Project Introduction - New digiKam Plugin to Process  Optical Character Recognition(OCR)"
 date: "2022-06-19 16:41:53 +0200"
 categories: "junk"
 author:
