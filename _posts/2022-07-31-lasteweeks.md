@@ -17,7 +17,7 @@ meta: "Springfield"
 In my final weeks of the Google Summer of Code 2022, I spend my time polishing code and writing and documenting all parts of my code for the final Submission for final integration into the branch master.
 
 
-I discussed with my mentor throughout these weeks that these tasks are : 
+I discussed with my mentor throughout these weeks that these tasks mainly focus on : 
 
 - Add a license header on the top of each source file.
 - Drop extra space by using the bash script : https://invent.kde.org/graphics/digikam/-/blob/master/project/scripts/dropextraspaces.sh.
