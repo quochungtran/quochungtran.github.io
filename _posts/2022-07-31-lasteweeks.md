@@ -2,7 +2,7 @@
 noteId: "4356ef400cb811ed9a159b1ba6a039b6"
 tags: []
 layout: "post"
-title: "<Weeks 10,11,12> Cleaning code and demo application"
+title: "<Weeks 10,11,12> Code refactoring and demo application"
 categories: "junk"
 date: "2022-08-30 16:41:53 +0200"
 author:
