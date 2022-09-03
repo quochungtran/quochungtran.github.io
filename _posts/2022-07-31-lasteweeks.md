@@ -34,9 +34,11 @@ To summarize, I would like to demo the functionalities of the Digikam OCR tool w
 
 3. When the User clicks the button "Start OCR," The batch process will begin, it finishes 100% in the progress bar, and all results details are displayed in the Text Editor by double click on the item. 
 
-4. With the support of the spell-checking engine, users can adjust the text and store it in separate text files or XMP metadata by clicking on the "Save" button. 
+4. Double click on each item list allows users to review recognized text. 
 
-5. The text stored in XMP can translate to another language if stored in another place.
+5. With the support of the spell-checking engine, users can adjust the text and store it in separate text files or XMP metadata by clicking on the "Save" button. 
+
+6. The text stored in XMP can translate to another language if stored in another place.
 
 
 You can view the demo of the plugin here : 
