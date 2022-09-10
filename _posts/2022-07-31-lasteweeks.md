@@ -28,7 +28,7 @@ I discussed with my mentor throughout these weeks that these tasks mainly focus 
 To summarize, I would like to demo the functionalities of the Digikam OCR tool what I have done:
 
 
-1. The user can process OCR in multiple documented images by selecting them; if not, a pop-up will appear. 
+1. The user can process OCR in multiple documented images by in a items list; if list is empty, a pop-up will appear. 
 
 2. There are four options that users can choose from based on 4 Tesseract basic options. 
 
@@ -46,6 +46,16 @@ You can view the demo of the plugin here :
 
 [demo](https://drive.google.com/file/d/1wyiHLaJbHDna1QLUZ5wS6vrrKwiyPkts/view?usp=sharing) 
 
+
+### Main commits 
+
+
+- [0e1d1958](https://invent.kde.org/graphics/digikam/-/merge_requests/177/diffs?commit_id=0e1d1958ac9d85eb73ce5b07ab8272e52d1d40f9)
+- [3d78df68](https://invent.kde.org/graphics/digikam/-/merge_requests/177/diffs?commit_id=3d78df68a83dd4e618fd8cc90e92d4e92fdb43d6)
+- [91db8752](https://invent.kde.org/graphics/digikam/-/merge_requests/177/diffs?commit_id=91db8752a9c12a49f92766394ba47242c6fad24a)
+- [49469a92](https://invent.kde.org/graphics/digikam/-/merge_requests/177/diffs?commit_id=49469a9296ee7932a971ded55b3f5f2dcd083545)
+- [69aa5d07](https://invent.kde.org/graphics/digikam/-/merge_requests/177/diffs?commit_id=69aa5d07ed3fe7fad925ef28b0e5213217be8621)
+- [cd1ace90](https://invent.kde.org/graphics/digikam/-/commit/cd1ace90ea27beab6aad8d02cd1f4d879eac14bd)
 
 # Improvement 
 
